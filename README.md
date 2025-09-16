@@ -16,6 +16,8 @@ This project is a hypothetical case study that leverages real-world data from Wa
 
 **Plan** is where the project is scoped and the goals are defined. **Analyze** is where the data is explored, cleaned, and prepared for analysis. **Construct** is where the hypothesis testing and machine learning models are built. **Execute** is where the results are communicated to stakeholders through dashboards or reports. 
 
+- `Activity_Course 2 Waze project lab.ipynb`: This notebook contains Python code for exploring the dataset.
+
 ## Keywords
 
 Hypothesis Testing, Machine Learning, Customer Retention, Product Management, Python, Business Analytics, Dashboards
