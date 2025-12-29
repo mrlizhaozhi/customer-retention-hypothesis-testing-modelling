@@ -9,3 +9,15 @@ Business scenario:
 The [Waze](https://www.waze.com/) navigation app is a popular mobile application that helps users navigate their way around cities. The company has been experiencing a decline in customer retention and wants to understand why this is happening so they can take actionable steps to improve it.
 
 This project is a hypothetical case study that leverages real-world data from Waze to test hypotheses and build machine learning models to predict customer retention.
+
+## Components
+
+-  `Plan, Analyze, Construct, Execute`: The `Plan-Analyze-Construct-Execute-PACE.pdf` document leverages the PACE workflow at Google to structure the analytics project. 
+
+**Plan** is where the project is scoped and the goals are defined. **Analyze** is where the data is explored, cleaned, and prepared for analysis. **Construct** is where the hypothesis testing and machine learning models are built. **Execute** is where the results are communicated to stakeholders through dashboards or reports. 
+
+- `Activity_Course 2 Waze project lab.ipynb`: This notebook contains Python code for exploring the dataset.
+
+## Keywords
+
+Hypothesis Testing, Machine Learning, Customer Retention, Product Management, Python, Business Analytics, Dashboards
