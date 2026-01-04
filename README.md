@@ -1,5 +1,4 @@
-# Google Advanced Data Analytics Professional Certificate Capstone Project
-# Customer Retention Hypothesis Testing and Modelling (Python)
+# Google Advanced Data Analytics Professional Certificate Capstone Project: Customer Retention Statistical Analysis, Hypothesis Testing, and Machine Learning Modelling (Python)
 
 ## Background
 
